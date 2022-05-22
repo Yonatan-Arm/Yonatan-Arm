@@ -6,6 +6,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Yonatan-Arm](https://github.com/Yonatan-Arm)
 
 - 📫 How to reach me **yoniarm123@gmail.com**
+- 
+- 👨‍💻 All of my projects are available at https://yonatan-arm.github.io/portfolio
 
 - ⚡ Fun fact **i like to solve logic challenges**
 
