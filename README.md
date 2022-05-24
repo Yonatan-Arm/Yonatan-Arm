@@ -30,8 +30,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yonatan-Arm&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="Yonatan-Arm" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatan-Arm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="Yonatan-Arm" />
 <br/>
-<a href="#"><img alt="Yonatan Arm Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yonatan-Arm&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+
     
 <h2 align="left">Connect with me:</h2>
 <p align="left">
