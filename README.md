@@ -2,7 +2,7 @@
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
 
 
-Full-Stack/ Frontend web developer, with experience in writing single-page applications using the latest Web technologies.
+
 
 - 📫 How to reach me **yoniarm123@gmail.com**
 
