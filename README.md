@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yonatan Arm</h1>
 <h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
 
-- 🌱 I’m currently learning **React.js, Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yonatan-Arm](https://github.com/Yonatan-Arm)
 
 - 📫 How to reach me **yoniarm123@gmail.com**
 
