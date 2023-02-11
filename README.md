@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yonatan Arm</h1>
-<h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions.</h3>
+<h3 align="center">As a self-taught developer driven by a passion for turning my innovative ideas into tangible realities through web technologies, I am eager to transition my hobby into a fulfilling professional career. I am actively seeking a full-time Frontend or Fullstack role where I can apply my skills towards delivering exceptional and user-friendly solutions for clients and end users."</h3>
 
 
 
